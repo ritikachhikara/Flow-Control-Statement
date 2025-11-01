@@ -12,16 +12,15 @@ class Biggest {
         System.out.println("Enter the 3rd Number: ");
         int c = sc.nextInt();
         if (a == b && a == c) {
-            System.out.println("All Are Equal"); 
-        }else if (a > b && a > c) {
-            System.out.println("Biggest value is: " + a); 
-        }else if (b > c) {
-            System.out.println("Biggest value is: " + b); 
-        }else {
+            System.out.println("All Are Equal");
+        } else if (a > b && a > c) {
+            System.out.println("Biggest value is: " + a);
+        } else if (b > c) {
+            System.out.println("Biggest value is: " + b);
+        } else {
             System.out.println("Biggest value is: " + c);
         }
         System.out.println("=====Program Ends=====");
-
     }
 
 }

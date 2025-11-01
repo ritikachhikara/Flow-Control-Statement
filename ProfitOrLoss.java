@@ -23,7 +23,6 @@ class ProfitOrLoss {
             System.out.println("There is No Profit No Loss in the transaction");
         }
         System.out.println("=====Program Ends=====");
-
     }
 
 }
