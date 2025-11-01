@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 class ProfitOrLoss
 {
 	public static void main(String[] args)
@@ -27,6 +28,7 @@ class ProfitOrLoss
 		System.out.println("=====Program Ends=====");
 		
 	}
+	
 }
 
 
